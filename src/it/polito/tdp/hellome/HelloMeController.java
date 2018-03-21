@@ -36,8 +36,8 @@ public class HelloMeController {
     	
     	else{	
     		
-    	String messaggio="Benvenuto, "+ nome+ "!\n";
-    	txtResult.setText(messaggio);
+    	String messaggios="Benvenuto, "+ nome+ "!\n";
+    	txtResult.setText(messaggios);
     	
     	}
     }
